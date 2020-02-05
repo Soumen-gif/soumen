@@ -1,0 +1,4 @@
+This is an interface
+
+where the method cannot have any body
+by default it is abstract
